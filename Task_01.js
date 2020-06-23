@@ -32,7 +32,7 @@ buffer.add( 'need to! ');
 console.log(buffer.print());
 
 buffer.add(0);
-buffer.add(0);
+buffer.add(1);
 buffer.add(0);
 console.log (buffer.print()); 
 
